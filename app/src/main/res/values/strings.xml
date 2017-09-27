@@ -1,0 +1,24 @@
+<resources>
+    <array name="Opciones">
+        <item>@string/crear</item>
+        <item>@string/listar</item>
+        <item>@string/rep1</item>
+        <item>@string/rep2</item>
+    </array>
+    <string name="app_name">Taller4</string>
+    <string name="ram">Ram</string>
+    <string name="precio">Precio</string>
+    <string name="marca">Marca</string>
+    <string name="color">Color</string>
+    <string name="sOperativo">S. Operativo</string>
+    <string name="numero">Numero</string>
+    <string name="agregar">Agregar</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="crear">Crear</string>
+    <string name="listar">Listar</string>
+    <string name="mensaje_exitoso">Celular Guardado</string>
+
+    <string name="rep1">Reporte1</string>
+    <string name="rep2">Reporte5</string>
+</resources>
